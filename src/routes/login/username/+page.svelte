@@ -35,6 +35,7 @@
       bio: "I am the Walrus",
       links: [
         {
+          id: Date.now().toString(),
           title: "Test Link",
           url: "https://kung.foo",
           icon: "custom",
